@@ -8,7 +8,7 @@ Atividade prática de criação de uma função de validação de cpf para ser d
 
 <div>
  <figure>
-  <img src="bin/src/verboget.png" alt="Verbo Get">
+  <img src="./bin/src/verboget.png" alt="Verbo Get">
   <figcaption>Teste usando GET com passagem do parametro numerocpf</figcaption>
  </figure>
  </div>
@@ -17,7 +17,7 @@ Atividade prática de criação de uma função de validação de cpf para ser d
 
 <div>
  <figure>
-  <img src="bin/src/verbopost.png" alt="Verbo Get">
+  <img src="./bin/src/verbopost.png" alt="Verbo Get">
   <figcaption>Teste usando POST com envido de dados via JSON</figcaption>
  </figure>
  </div>
